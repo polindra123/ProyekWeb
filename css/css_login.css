@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	background-color: #008080; 
+}
+.form-login{
+    margin-top: 150px;
+}
+.konten-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.header-login{
+	width: 100%;
+	padding: 1%;
+	background-color:#40E0D0;
+	color: white;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+}
+
+.tombol {
+	background: #40E0D0;
+	color: #fff;
+	border: 0;
+	width: 100%;
+	border-radius: 20px;
+	padding: 10px;
+}

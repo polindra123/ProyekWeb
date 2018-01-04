@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  background-color:#cccccc; 
+}
+.form-login{
+    margin-top: 13%;
+}
+.outter-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+}
+.head{
+  width: 100%;
+  height: auto;
+  padding: 1%;
+  background-color:#aaaaaa;
+  color: white;
+}
